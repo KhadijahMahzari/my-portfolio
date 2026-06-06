@@ -156,9 +156,9 @@ section{
 }
 
 @keyframes words {
-    0%, 33% { content: "Aspiring Machine Learning Engineer"; }
-    34%, 66% { content: "Data Scientist"; }
-    67%, 100% { content: "fullstack developer"; }
+    0%, 33% { content: "IT Infrastructure & Operations Trainee"; }
+    34%, 66% { content: "Data Analyst"; }
+    67%, 100% { content: "Computer Science Graduate"; }
 }
 
 .content p{
