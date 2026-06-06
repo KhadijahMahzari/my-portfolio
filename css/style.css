@@ -151,7 +151,7 @@ section{
 }
 
 .typewriter span::before{
-    content: "Aspiring Machine Learning Engineer";
+    content: "Computer Science Graduate";
     animation: words 15s infinite;
 }
 
